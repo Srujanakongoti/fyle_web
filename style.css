@@ -309,6 +309,7 @@ button[type="submit"] {
 .our-project .container .image img {
   height: 480px;
   width: 590px;
+  margin-right: 5px;
 }
 
 .growth {
